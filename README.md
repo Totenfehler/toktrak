@@ -1,5 +1,3 @@
-tracking 156166
-
 #### Comparing your local copy
 Have python3 installed and save the `diff.py` file.
 
